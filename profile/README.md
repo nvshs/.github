@@ -1,4 +1,4 @@
-![NVSHS](https://github.com/microsoft/.github/blob/main/images/open-at-microsoft.png) 
+![NVSHS](https://github.com/nvshs/.github/blob/main/images/slide-01.jpg) 
 
 ## Get Involved
 
