@@ -1,15 +1,9 @@
 ![NVSHS](https://github.com/nvshs/.github/blob/main/images/slide-01.jpg) 
 
-## Get Involved
+---
 
-Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
+## Narangba Valley State High School
 
-* [Explore featured projects](https://opensource.microsoft.com/projects/)
-* [Explore open source jobs at Microsoft](https://careers.microsoft.com/us/en/search-results?keywords=open%20source)
-* [Apply for Azure credits for open source projects](https://opensource.microsoft.com/azure-credits)
+**Narangba Valley State High School (NVSHS)** is a co-educational, state secondary school in [Narangba, Queensland](https://en.wikipedia.org/wiki/Narangba,_Queensland). It is one of the newest schools in the state, having only opened on 1 January 2000.
 
-Visit [opensource.microsoft.com](https://opensource.microsoft.com) to learn more!
-
-----
-
-Microsoft projects adopt the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/).
+---
