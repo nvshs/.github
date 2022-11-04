@@ -13,8 +13,9 @@ In partnership with our parents and community, Narangba Valley State High School
 ## Projects
 
 * [Unblocked Portal](https://github.com/nvshs/portal)
-* [Chat Room](https://github.com/nvshs/chat/)
 * [Chromium](https://github.com/nvshs/chromium/)
+* [Sound](https://github.com/nvshs/chromium/)
+* [Chat Room](https://github.com/nvshs/chat/)
 
 ---
 
