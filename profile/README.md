@@ -2,7 +2,7 @@
 
 ---
 
-[![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m792992486-89cef1b7679589f8ef6ae75f?style=for-the-badge)](https://stats.uptimerobot.com/kKgzyfkzw7)
+![Portal uptime (30 days)](https://img.shields.io/uptimerobot/ratio/m792997472-ffcaee4b9160e196b7fd7e0a?label=Portal%20Uptime%20%2830%20days%29&style=for-the-badge)
 
 # Narangba Valley State High School
 
