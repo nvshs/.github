@@ -2,8 +2,6 @@
 
 ---
 
-![Portal uptime (30 days)](https://img.shields.io/uptimerobot/ratio/m792997472-ffcaee4b9160e196b7fd7e0a?label=Portal%20Uptime%20%2830%20days%29&style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Unblocked-blue?style=for-the-badge)
 # Narangba Valley State High School
 
 **Narangba Valley State High School (NVSHS)** is a co-educational, state secondary school in [Narangba, Queensland](https://en.wikipedia.org/wiki/Narangba,_Queensland). It is one of the newest schools in the state, having only opened on 1 January 2000.
