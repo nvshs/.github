@@ -16,6 +16,7 @@ In partnership with our parents and community, Narangba Valley State High School
 * [Chromium](https://github.com/nvshs/chromium/)
 * [Sound](https://github.com/nvshs/sound/)
 * [Chat Room](https://github.com/nvshs/chat/)
+* [Top reddit posts of the day cache](https://github.com/nvshs/reddit-api-cache/)
 
 ---
 
